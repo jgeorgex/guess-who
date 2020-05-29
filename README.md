@@ -1,3 +1,5 @@
+A project to deliver answers to the questions you want to know. :full_moon_with_face:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
